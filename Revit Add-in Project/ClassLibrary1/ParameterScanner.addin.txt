@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Parameter Scanner</Name>
+    <Assembly>$(targetpath)</Assembly>
+    <AddInId>07D592AC-3832-438E-8867-70A1FEA0B571</AddInId>
+    <VendorId>Company</VendorId>
+    <VendorDescription>Company Description</VendorDescription>
+  </AddIn>
+</RevitAddIns>

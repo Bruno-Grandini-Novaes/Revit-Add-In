@@ -1,0 +1,13 @@
+﻿<Window x:Class="ParameterScanner.ParameterScannerForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Parameter Scanner" Height="300" Width="400">
+    <Grid>
+        <Label Content="Parameter Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="parameterNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,10,0,0" Width="250"/>
+        <Label Content="Parameter Value:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,50,0,0"/>
+        <TextBox x:Name="parameterValueTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="120,50,0,0" Width="250"/>
+        <Button Content="Isolate Elements" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="10,100,0,0" Click="IsolateElementsButton_Click"/>
+        <Button Content="Select Elements" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="250,100,0,0" Click="SelectElementsButton_Click"/>
+    </Grid>
+</Window>

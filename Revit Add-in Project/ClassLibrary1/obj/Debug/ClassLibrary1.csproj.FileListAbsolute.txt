@@ -1,0 +1,6 @@
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ParameterScannerForm.baml
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ParameterScannerForm.g.cs
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1_MarkupCompile.cache
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.g.resources
+C:\Users\Bruno\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
